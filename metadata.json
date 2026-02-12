@@ -1,0 +1,8 @@
+{
+  "name": "UP-Vikas: Vendor Digital Infrastructure",
+  "description": "A national-scale DPI portal for one-person small vendors in Uttar Pradesh to enable identity, credit, and market access.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
